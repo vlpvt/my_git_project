@@ -1,1 +1,3 @@
 pwd - сокращение дл€ print working directory
+
+ѕеред комитом провер€йте какие файлы в staging area ожидают комита с помощью команды git status.
